@@ -1,0 +1,16 @@
+#content-tk {
+    margin: 0px auto;
+    text-align: center;
+    width: 95%;
+    height: auto;
+    line-height: 50px;
+    margin-top: 20px;
+    color: black;
+}
+
+#taotk {
+    width: 60%;
+    height: auto;
+    margin: 0px auto;
+    text-align: center;
+}

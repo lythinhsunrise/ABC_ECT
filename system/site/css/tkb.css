@@ -1,0 +1,23 @@
+#content-tkb {
+    padding-top: 100px;
+}
+
+#tkb {
+    border-collapse: collapse;
+    margin: 0px auto;
+    text-align: center;
+}
+
+#tkb,
+#th,
+#td {
+    border: 1px solid #cecece;
+    color: #210dd5;
+}
+
+#th,
+#td {
+    padding: 15px;
+    width: 100px;
+    height: 150px;
+}

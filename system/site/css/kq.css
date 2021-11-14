@@ -1,0 +1,28 @@
+#kq {
+    color: black;
+    padding-top: 20px;
+    margin: 0px auto;
+    text-align: center;
+    width: 70%;
+    border: 3px red solid;
+    margin-top: 80px;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+#info-kq {
+    width: 100%;
+    height: 100px;
+    line-height: 100px;
+    text-align: left;
+    border-bottom: 1px solid black;
+}
+
+#more {
+    width: 33%;
+    float: left;
+}
+
+#date {
+    text-align: right;
+}

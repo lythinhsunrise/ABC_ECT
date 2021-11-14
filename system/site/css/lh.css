@@ -1,0 +1,32 @@
+#content-lh {
+    margin: 0px auto;
+    text-align: center;
+    width: 95%;
+    height: auto;
+    line-height: 50px;
+    margin-top: 20px;
+    color: black;
+}
+
+#lophoc {
+    width: 70%;
+    border: 1px solid black;
+    margin: 0px auto;
+    margin-top: 20px;
+}
+
+#ifo {
+    width: 24%;
+    display: inline-block;
+}
+
+#infclass {
+    margin: 0px auto;
+    text-align: center;
+    width: 70%;
+    height: auto;
+    line-height: 50px;
+    margin-top: 20px;
+    color: black;
+    text-align: left;
+}
